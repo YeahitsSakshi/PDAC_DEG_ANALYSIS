@@ -29,6 +29,7 @@ ToolAs used :
 - Identified top biomarker candidates with strong diagnostic potential
 
 ## Author
-**Sakshi Lodhi Rajput**  
-M.Sc. Biotechnology
+**Sakshi Lodhi Rajput**
+M.Sc. Biotechnology | Research Trainee at IIT-BHU  
+Dissertation: Identification of DEGs in PDAC using SVM  
 sakshilodhirajput06@gmail.com
